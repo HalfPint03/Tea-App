@@ -1,5 +1,5 @@
-DROP DATABASE IF EXISTS drawn_together_test;
-DROP DATABASE IF EXISTS drawn_together;
+DROP DATABASE IF EXISTS tea_app_test;
+DROP DATABASE IF EXISTS tea_app;
 
-CREATE DATABASE drawn_together_test;
-CREATE DATABASE drawn_together;
+CREATE DATABASE tea_app_test;
+CREATE DATABASE tea_app;

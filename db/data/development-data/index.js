@@ -1,0 +1,5 @@
+exports.allTeasData = require('./teas')
+exports.energisedTeasData = require('./energised')
+exports.focusedTeasData = require('./focused')
+exports.happyTeasData = require('./happy')
+exports.relaxedTeasData = require('./relaxed')
