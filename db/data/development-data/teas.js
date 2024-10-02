@@ -9,7 +9,7 @@ module.exports = [
     type: "black",
     caffeine: "60-110mg",
     caffeineLevel: "high",
-    decription:
+    description:
       'Assam tea is mostly grown at or near sea level and is known for its body, briskness, malty flavour, and strong, bright colour. Assam teas, or blends containing Assam, are often sold as "breakfast" teas.',
     colorDescription: "deep-amber",
     tasteDescription:
@@ -27,7 +27,7 @@ module.exports = [
     type: "black",
     caffeine: "50-120mg",
     caffeineLevel: "very high",
-    decription:
+    description:
       "Darjeeling tea is a black tea that is grown and processed in the Darjeeling or Kalimpong Districts in West Bengal, also among the only teas in the world with a Geographical Indication trademark",
     colorDescription: "ranging from golden yellow to orange to deep red.",
     tasteDescription: "musky-sweet tasting notes similar to muscat wine",
@@ -44,7 +44,7 @@ module.exports = [
     type: "black",
     caffeine: "varying",
     caffeineLevel: "moderate",
-    decription:
+    description:
       "Lapsang Souchong is a tea that is smoke-dried over a pinewood fire",
     colorDescription: "ranging from amber to caramel to deep red.",
     tasteDescription: "sweet, piney, smoky",
@@ -61,7 +61,7 @@ module.exports = [
     type: "black",
     caffeine: "25-45mg",
     caffeineLevel: "moderate",
-    decription: "A black tea ",
+    description: "A black tea ",
     colorDescription: "bright red",
     tasteDescription: "smooth, fruity, malty, unsweetened cocoa",
     sources: "https://en.wikipedia.org/wiki/Keemun",
@@ -77,7 +77,7 @@ module.exports = [
     type: "black",
     caffeine: "20-40mg",
     caffeineLevel: "moderate",
-    decription:
+    description:
       'A relatively high-end, gourmet Chinese black tea sometimes used in various tea blends. The main difference between Dianhong and other Chinese black teas is the amount of fine leaf buds, or "golden tips," present in the dried tea.',
     colorDescription: "golden orange",
     tasteDescription:
